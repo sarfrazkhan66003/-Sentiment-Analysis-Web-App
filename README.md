@@ -26,12 +26,12 @@ Predict Emotions from Voice and Text Using AI & Machine Learning
 <img width="1116" height="337" alt="image" src="https://github.com/user-attachments/assets/d469d180-98af-4434-bbb0-5eabfdb7c072" />
 
 ## 🛠️ Tech Stack
-    - Component	        |     - Description
-    - Python	          |     - Programming Language
-    - Streamlit         |     - Web App Framework
-    - Matplotlib	      |     - Probability Visualization
-    - SpeechRecognition |	    - Voice Input Capture
-    - Scikit-learn	    |     - ML Model & Vectorization
+     Component	        |      Description
+     Python	          |      Programming Language
+     Streamlit         |      Web App Framework
+     Matplotlib	      |      Probability Visualization
+     SpeechRecognition |	     Voice Input Capture
+     Scikit-learn	    |      ML Model & Vectorization
 
 ## 📌 Requirements
   - Python 3.10+
